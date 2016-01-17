@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5af9ace2-b2a6-4264-b8ae-e0fc9c16e287" name="BS" url="http://192.168.1.8">
+        <fileTransfer host="192.168.1.8" port="21" rootFolder="/var/www/html" password="df93df9edf9edf9adfc8dfc9" username="cbell">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
